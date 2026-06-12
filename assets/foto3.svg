@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="900" viewBox="0 0 700 900">
+ <defs><linearGradient id="a" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#22030d"/><stop offset="1" stop-color="#09020a"/></linearGradient></defs>
+ <rect width="700" height="900" fill="url(#a)"/>
+ <circle cx="350" cy="300" r="120" fill="#8b0018" opacity=".35"/>
+ <text x="350" y="430" text-anchor="middle" fill="#e8c77c" font-family="Georgia" font-size="48">Foto 3</text>
+ <text x="350" y="485" text-anchor="middle" fill="#c7a9b4" font-family="Georgia" font-size="24">troque na pasta assets</text>
+</svg>
